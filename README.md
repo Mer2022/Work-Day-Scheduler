@@ -1,3 +1,6 @@
 # Work-Day-Scheduler
 
-A calendar is created to add important events to a daily planner to manage a user's time efficiently.
+User Story
+
+AS A student with a busy schedule
+I WANT a daily planner SO THAT I can add important events in it to manage my time efficiently.
